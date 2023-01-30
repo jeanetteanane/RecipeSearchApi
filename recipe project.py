@@ -12,7 +12,7 @@ type_of_meal = ["breakfast", "brunch", "lunch/dinner", "snack"]
 cuisine_type = ["american", "asian", "british", "chinese","french", "italian", "japanese"]
 
 def run():
-    meal_of_the_day = input('What meal type of day do you want? \n {}:'.format(type_of_meal))
+    meal_of_the_day = input('Which meal type do you want? \n {}:'.format(type_of_meal))
     while meal_of_the_day not in type_of_meal:
         meal_of_the_day = input("Unknown meal of day. Please choose from one of listed meal types: \n {}".format(type_of_meal))
 
