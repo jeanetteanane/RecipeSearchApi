@@ -2,7 +2,7 @@
 Recipe Search API project that uses Python and the Edamam API.  
 The API searches and finds recipes based on the user's chosen meal type, country cuisine and ingredient. 
 
-I presented this final group project for the Code First Girls on a 8-week Introduction to Python Programming course.
+I presented this final group project for the Code First Girls 8-week Python Programming course.
 
 ## Installation
 - Sign up for an edamam account via https://developer.edamam.com/edamam-docs-recipe-api
