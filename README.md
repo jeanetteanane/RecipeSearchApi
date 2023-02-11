@@ -7,6 +7,7 @@ I presented this final group project for the Code First Girls 8-week Python Prog
 ## Installation
 - Sign up for an edamam account via https://developer.edamam.com/edamam-docs-recipe-api
 - Use Edamam API Key and API ID for recipe search
+- Pycharm
 
 ## Features
 - User can choose between breakfast, brunch, lunch/dinner and snack.
@@ -22,5 +23,7 @@ I presented this final group project for the Code First Girls 8-week Python Prog
 ***Results saved in Recipebook.txt file with ingredient list:***
 ![recipebook](https://user-images.githubusercontent.com/101072798/215617230-9b71d826-c0a8-4786-a00a-df7da2bd9f72.png) 
 
-
+## Built With:
+- Python
+- Pycharm
  
